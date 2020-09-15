@@ -1,0 +1,76 @@
+  {  margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+  }
+  
+  .menu{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    background-color: #425261 ;
+    padding: 13px 3;
+    display: flex;
+    justify-content: center;
+  }
+
+  .bt{
+background-color: #425261 ;    
+cursor:pointer;
+font-family: Times, serif;
+font-size:13px;
+padding:2px 0px;
+text-decoration:none;
+  }
+  .bt {
+    border-color:#fcb667;
+    background:linear-gradient(to bottom, #090f09 5%, #01bdca 100%);
+    box-shadow:inset 0px 1px 0px 0px #3e3f3e;
+    color:rgb(62, 139, 255);
+    text-shadow:0px 1px 0px #001aff;
+    }
+    .bt:hover {
+      background:linear-gradient(to bottom, #68b465 5%, #abd5aa 100%);
+      }
+      
+ 
+   .imagem {
+    text-align-last: center; 
+    background: white;
+    padding: 9px;  
+
+      }
+
+    .corpo{
+      font-family: 'Lucida Sans Unicode';
+      font-size: 0.4cm;
+      }
+
+    .corpo2{
+        text-align-last: center;
+        font-family: Tahoma, sans-serif;
+        font-size: 0.4cm;
+
+      }
+    .corpo3{
+        
+        text-align-last: center;
+        font-family:  sans-serif;
+        font-size: 0.5cm; 
+        color: rgb(35, 35, 46);
+    }
+    .corpo4{
+        font-family: Tahoma, sans-serif;
+        font-size: 0.5cm; 
+        background-color: rgb(243, 240, 240);
+
+    }
+
+    .rodape{
+    color:black;
+    font-family: sans-serif;
+    font-size: small;
+    background-color:#425261 ;
+    padding: 30px 0;
+    display: flex;
+    justify-content: center;
+    }

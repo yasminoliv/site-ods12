@@ -1,0 +1,43 @@
+.Menu{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large; 
+    background-color:white;
+    text-align: center;
+    display: flexbox;
+}
+.Corpo{
+    font-family: Tahoma, sans-serif;
+    font-size: medium; 
+    background-color:white;
+    text-align: left;
+    display: flexbox;
+    color: black;
+}
+.img{
+    text-align: center;
+    background-color: rgb(247, 234, 193);
+    padding: 0cm 0;
+    display: flexbox;
+}
+
+.Topico{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background-color:  rgb(247, 234, 193);
+    text-align: justify;
+}
+.final {
+    text-align: center;
+    display: flexbox;
+}
+.rodape{
+    color:black;
+    font-family: sans-serif;
+    font-size: small;
+    background-color: rgb(247, 234, 193) ;
+    padding: 30px 0;
+    display: flex;
+    justify-content: center;
+    }
+
+    
